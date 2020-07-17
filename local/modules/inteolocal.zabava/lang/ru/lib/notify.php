@@ -1,0 +1,11 @@
+<?$MESS["INTEOLOCAL_NOTIFY_EMPTY_ID"] = "Не указан ID оплаты";
+$MESS["INTEOLOCAL_COMMENT_PAYMENT"] = "Получена оплата на сумму #SUM# руб. через платежную систему \"#PAYMENTTYPE#\"";
+$MESS["INTEOLOCAL_COMMENT_PAYMENT_RETURN"] = "Возврат оплаты на сумму #SUM# руб., оплаченной через платежную систему \"#PAYMENTTYPE#\"";
+$MESS["INTEOLOCAL_COMMENT_PAYMENT_CANCEL"] = "Отмена оплаты на сумму #SUM# руб., оплаченной через платежную систему \"#PAYMENTTYPE#\"";
+$MESS["INTEOLOCAL_COMMENT_PAYMENT_MESSAGE"] = "По сделке [b][url=#LINK#]#DEAL#[/url][/b] получена оплата на сумму #SUM# руб. через платежную систему \"#PAYMENTTYPE#\"";
+$MESS["INTEOLOCAL_COMMENT_PAYMENT_MESSAGE_HTML"] = "По сделке <b><a href=\"#LINK#\" target=\"_blank\">#DEAL#</a></b> получена оплата на сумму #SUM# руб. через платежную систему \"#PAYMENTTYPE#\"";
+$MESS["INTEOLOCAL_SEND_MESSAGE"] = "#MESSAGE# - Сообщение";
+$MESS["INTEOLOCAL_MESSAGE_DEFAULT_TITLE"] = "Уведомление";
+$MESS["INTEOLOCAL_MESSAGE_TITLE_ACCOUNTANT"] = "Уведомление бухгалтеру";
+$MESS["INTEOLOCAL_MESSAGE_TITLE_DIRECTOR"] = "Уведомление директору";
+$MESS["INTEOLOCAL_COMMENT_PAYMENT_MESSAGE_TITLE"] = "Новая оплата";
